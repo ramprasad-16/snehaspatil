@@ -4,8 +4,6 @@
 [Click here for board link](https://www.vlsisystemdesign.com/vsdsquadronmini/)
 
 
-![NewMini224-removebg-preview](https://github.com/Nawras-Ahamed/VSD_Squadron_mini_Research/assets/50738659/02693492-c8b9-44a6-90ef-6c6281721042)
-
 
 
 BOARD SPECS:
@@ -31,7 +29,6 @@ BOARD SPECS:
    
 
 This repo is intended to document the weekly progress.
-
 ### The first online meet was held on 16th of Feb 2024 @6PM
 
 <details>
